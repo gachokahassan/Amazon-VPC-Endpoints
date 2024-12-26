@@ -137,4 +137,4 @@ Gratitude to the **ALX AWS Community** and **NextWork.org** for their mentorship
 
 **Hassan Gachoka**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/gachokahassan)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-brightgreen)](https://your-portfolio-link.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-brightgreen)](https://learn.nextwork.org/overwhelmed_cyan_adorable_thunder/portfolio)
